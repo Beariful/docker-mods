@@ -8,7 +8,7 @@ on:
       GO_VERSION:
 
 env:
-  ENDPOINT: "linuxserver/mods" #don't modify
+  ENDPOINT: "beariful/mods" #don't modify
   BASEIMAGE: "code-server" #replace
   MODNAME: "golang" #replace
 
